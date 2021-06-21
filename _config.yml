@@ -7,7 +7,7 @@
 
 # Site settings
 title: covid19india.org blog
-title_top: Stretchhhhh
+title_top: Covid19india.org India Blog # anything is pretty better here
 email: hello@covid19india.org
 description: > # this means to ignore newlines until "baseurl:"
   A space to express some thoughts and opinions.
